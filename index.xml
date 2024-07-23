@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>力力江的博客站</title>
-    <link>https://big-lilijiang.github.io:1313/</link>
+    <link>https://big-lilijiang.github.io/</link>
     <description>Recent content on 力力江的博客站</description>
     <image>
       <title>力力江的博客站</title>
-      <url>https://big-lilijiang.github.io:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://big-lilijiang.github.io:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://big-lilijiang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://big-lilijiang.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <atom:link href="https://big-lilijiang.github.io:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://big-lilijiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SSL/TSL 证书全搞清楚！</title>
-      <link>https://big-lilijiang.github.io:1313/posts/ssltsl%E8%AF%81%E4%B9%A6%E5%85%A8%E6%90%9E%E6%B8%85/</link>
+      <link>https://big-lilijiang.github.io/posts/ssltsl%E8%AF%81%E4%B9%A6%E5%85%A8%E6%90%9E%E6%B8%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://big-lilijiang.github.io:1313/posts/ssltsl%E8%AF%81%E4%B9%A6%E5%85%A8%E6%90%9E%E6%B8%85/</guid>
+      <guid>https://big-lilijiang.github.io/posts/ssltsl%E8%AF%81%E4%B9%A6%E5%85%A8%E6%90%9E%E6%B8%85/</guid>
       <description>加密证书名称由来，RSA算法，信任链，签发逻辑和证书验证逻辑</description>
     </item>
   </channel>
