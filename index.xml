@@ -13,11 +13,25 @@
     <language>en</language>
     <atom:link href="https://big-lilijiang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://big-lilijiang.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://big-lilijiang.github.io/archives/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>SSL/TSL 证书全搞清楚！</title>
       <link>https://big-lilijiang.github.io/posts/ssltsl%E8%AF%81%E4%B9%A6%E5%85%A8%E6%90%9E%E6%B8%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://big-lilijiang.github.io/posts/ssltsl%E8%AF%81%E4%B9%A6%E5%85%A8%E6%90%9E%E6%B8%85/</guid>
       <description>加密证书名称由来，RSA算法，信任链，签发逻辑和证书验证逻辑</description>
+    </item>
+    <item>
+      <title>本博客的搭建步骤（待续）</title>
+      <link>https://big-lilijiang.github.io/posts/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4%E8%B6%85%E7%AE%80%E5%8D%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://big-lilijiang.github.io/posts/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4%E8%B6%85%E7%AE%80%E5%8D%95/</guid>
+      <description>搭建和本站一样的博客网站并部署到github的方法</description>
     </item>
   </channel>
 </rss>
